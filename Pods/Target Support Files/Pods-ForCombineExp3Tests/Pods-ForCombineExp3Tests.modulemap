@@ -1,0 +1,6 @@
+framework module Pods_ForCombineExp3Tests {
+  umbrella header "Pods-ForCombineExp3Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
